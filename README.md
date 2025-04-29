@@ -66,7 +66,7 @@ Key questions addressed:
 - 📅 Are there **seasonal or time-based** sales trends?
 - 💱 How do **currency fluctuations** affect international profitability?
 
-- [📊 EDA Queries Script](./sql_scripts/exploratorydataanalysisqueries.sql)
+- [📊 EDA Queries Script](./exploratorydataanalysisqueries.sql)
 
 ---
 
