@@ -43,9 +43,7 @@ The project is fully executed in **MySQL**, with a strong focus on data quality 
 | 5 | Applied joins across tables to create a unified analysis-ready dataset |
 | 6 | Currency values were converted to USD using `exchange_rate.csv` |
 
-## 🔧 Data Cleaning
 
-[📄 data_cleaning.sql](./data_cleaning.sql)
 
 
 
