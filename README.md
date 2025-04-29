@@ -47,7 +47,7 @@ The project is fully executed in **MySQL**, with a strong focus on data quality 
 
 
 
-- [📄 Data Cleaning Script](./sql_scripts/datacleaning.sql)  
+- [📄 Data Cleaning Script](./datacleaning.sql)  
 
    
 
