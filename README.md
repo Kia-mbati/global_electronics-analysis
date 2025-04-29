@@ -45,8 +45,8 @@ The project is fully executed in **MySQL**, with a strong focus on data quality 
 
 ## 🔧 Data Cleaning
 
-All SQL queries used to clean and prepare the data are available in this script:  
-[📄 data_cleaning.sql](./sql_scripts/data_cleaning.sql)
+[📄 data_cleaning.sql](./data_cleaning.sql)
+
 
 
 ---
