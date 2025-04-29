@@ -72,12 +72,7 @@ Key questions addressed:
 
 ---
 
-## 📊 Sample Visuals
-*(Optional section — include if you used Excel, Tableau, or matplotlib)*
 
-- `visuals/revenue_by_region.png`
-- `visuals/top_customers_pareto.png`
-- `visuals/sales_seasonality_trend.png`
 
 ---
 
@@ -97,10 +92,7 @@ Key questions addressed:
 │   ├── exchange_rate.csv
 │   └── data_dictionary.csv
 ├── insights_summary.pdf
-└── visuals/
-    ├── revenue_by_region.png
-    ├── top_customers_chart.png
-    └── seasonality_trends.png
+
 
 
 
