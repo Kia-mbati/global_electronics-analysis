@@ -43,7 +43,7 @@ The project is fully executed in **MySQL**, with a strong focus on data quality 
 | 5 | Applied joins across tables to create a unified analysis-ready dataset |
 | 6 | Currency values were converted to USD using `exchange_rate.csv` |
 
-📄 **Scripts used**: [`sql_scripts/data_cleaning.sql`](./sql_scripts/data_cleaning.sql)
+
 
 ---
 
@@ -56,7 +56,7 @@ Key questions addressed:
 - 📅 Are there **seasonal or time-based** sales trends?
 - 💱 How do **currency fluctuations** affect international profitability?
 
-📄 **Analysis scripts**: [`sql_scripts/eda_queries.sql`](./sql_scripts/eda_queries.sql)
+
 
 ---
 
