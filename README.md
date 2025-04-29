@@ -45,7 +45,11 @@ The project is fully executed in **MySQL**, with a strong focus on data quality 
 
 ## 🔧 SQL Scripts
 
-- [📄 Data Cleaning Script](./sql_scripts/data cleaning.sql)  
+
+
+- [📄 Data Cleaning Script](./sql_scripts/datacleaning.sql)  
+
+   
 
 
 
@@ -62,7 +66,7 @@ Key questions addressed:
 - 📅 Are there **seasonal or time-based** sales trends?
 - 💱 How do **currency fluctuations** affect international profitability?
 
-- [📊 EDA Queries Script](./sql_scripts/exploratorydataanalysis_queries.sql)
+- [📊 EDA Queries Script](./sql_scripts/exploratorydataanalysisqueries.sql)
 
 ---
 
